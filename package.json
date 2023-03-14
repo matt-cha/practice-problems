@@ -9,6 +9,7 @@
     "twwatch": "tailwindcss -i ./qr-code-component-main/src/input.css -o ./qr-code-component-main/dist/output.css --watch"
   },
   "devDependencies": {
+    "@types/node": "^18.15.2",
     "eslint": "^8.25.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-html": "^7.1.0",
